@@ -18,3 +18,4 @@ for (x,y,w,h) in faces:
 cv.imshow('img',img)
 cv.waitKey(0)
 cv.destroyAllWindows()
+
